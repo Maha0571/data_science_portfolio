@@ -54,9 +54,9 @@ const projects = [
       'Enables proactive outreach to at-risk customers, protecting recurring revenue and loyalty.',
     tech: ['Python', 'SQL', 'Scikit-learn'],
     accent: '#A78BFA',
-    github: '',
+    github: 'https://github.com/Maha0571/customer_retention_intelligence_system',
     demoLabel: 'Live Demo',
-    demoHref: '#',
+    demoHref: 'https://customerretentionintelligencesystem-jsptxuf4pcfrcnjlqqbk4r.streamlit.app/',
   },
   {
     title: 'Business Revenue Forecasting Engine',
