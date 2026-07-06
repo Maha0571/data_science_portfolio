@@ -80,7 +80,7 @@ export function Contact() {
             </div>
 
             <a
-              href="/Resume.pdf"
+              href="/resume_1.pdf"
               className="mt-10 inline-flex items-center gap-2 rounded-xl border border-[#D4AF37]/50 px-7 py-3.5 text-sm font-semibold text-[#D4AF37] transition-all hover:bg-[#D4AF37]/10 hover:shadow-[0_0_30px_-8px_rgba(212,175,55,0.6)]"
             >
               <Download className="h-4 w-4" />
