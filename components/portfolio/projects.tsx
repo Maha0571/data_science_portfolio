@@ -69,9 +69,9 @@ const projects = [
       'Delivers reliable revenue projections that sharpen planning, budgeting and resource allocation.',
     tech: ['Python', 'Pandas', 'Time Series'],
     accent: '#D4AF37',
-    github: '',
+    github: 'https://github.com/Maha0571/Business_Revenue_Forecasting_system',
     demoLabel: 'Live Demo',
-    demoHref: '#',
+    demoHref: 'https://businessrevenueforecastingsystem-diiuymura36hkntq8mxr5y.streamlit.app/',
   },
 ]
 
